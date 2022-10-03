@@ -10,6 +10,7 @@ public class Person {
     private String name;
 
     @Max(value = 2022, message = "Year should be less than 2022")
+    @Min(value = 1900, message = "Year should not be less than 1900")
     private int year;
 
     public Person() {
