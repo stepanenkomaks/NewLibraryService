@@ -9,4 +9,5 @@ A project made with Spring Data and Hibernate
 
 ## Checking the expiration of the book
 If a person picked up a book more than 10 days ago and has not yet returned it, that book should be highlighted in red on that person's page.
+
 <img width="483" alt="Снимок экрана 2022-12-24 в 6 29 46 PM" src="https://user-images.githubusercontent.com/103382741/209444214-4bca627a-6a30-44c6-a3e7-ab7c385c8939.png">
