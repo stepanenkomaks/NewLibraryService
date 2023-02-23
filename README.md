@@ -1,5 +1,5 @@
-# New_Library_Service
-A project made with Spring Data and Hibernate
+# New Library Service
+New Library Service implementation
 
 ## Added pagination
 <img width="613" alt="Снимок экрана 2022-12-24 в 6 28 05 PM" src="https://user-images.githubusercontent.com/103382741/209444167-6a5a85cf-63ab-4a5d-89d7-92de1618a6e0.png">
