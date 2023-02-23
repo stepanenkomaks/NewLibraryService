@@ -1,4 +1,4 @@
-# SpringHibernate
+# New_Library_Service
 A project made with Spring Data and Hibernate
 
 ## Added pagination
