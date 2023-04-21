@@ -1,5 +1,5 @@
 # New Library Service
-New Library Service implementation
+Updated Library Service implementation [Previous version](https://github.com/stepanenkomaks/LibraryService)
 
 ## Added pagination
 <img width="613" alt="Снимок экрана 2022-12-24 в 6 28 05 PM" src="https://user-images.githubusercontent.com/103382741/209444167-6a5a85cf-63ab-4a5d-89d7-92de1618a6e0.png">
